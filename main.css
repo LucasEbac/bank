@@ -22,6 +22,7 @@ button {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
+    color: rgb(218, 133, 15);
 }
 .sucess-mensagem {
     background-color: rgb(53, 205, 18);
